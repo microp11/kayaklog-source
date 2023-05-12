@@ -31,6 +31,6 @@ widgets: # Enable sidebar widgets in given order per page
 
 Flooding:
 
-First paddle of the season. There was no ice in the river, still a lot of fresh water due to the melting snow. The strait still has ice, from the bridge you could see almost a 3rd covered.
+First paddle of the season. There was no ice on the river. Still a lot of fresh water due to the melting snow. The strait still has ice, from the Confederation bridge you could see almost a 3rd part still covered in it.
 
 It wasn't the biggest flow and there was no bore. We did not catch a lot of features and Chris's opinion was that we were too late for most. It was also very windy, perhaps gusting to 30 kts upstream. Overall it was a good day on the water, felt energized and was not overly tired at the end. I will put this on working the ergo.
