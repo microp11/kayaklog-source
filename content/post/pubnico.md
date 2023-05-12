@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Pubnico"
 date: "2023-05-06"
-description: "season kick-off (2 days)"
+#description: "season kick-off (2 days)"
 categories:
     - "c2tc"
 tags:
